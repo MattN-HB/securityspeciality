@@ -1,9 +1,8 @@
 # AWS Security Speciality Cert
-This repo is a guide to taking security speciality cert in 2021. 
+This repo is a guide to taking security speciality cert in 2021. **CURRENTLY IN DRAFT**
 
 ## My Key Resources: 
 * [acloudguru hands on course](https://acloudguru.com/course/aws-certified-security-specialty)
-
 
 ## Scoring
 <details>
@@ -19,7 +18,7 @@ This repo is a guide to taking security speciality cert in 2021.
 
 ## Domain Breakdown 
 <details>
-  <summary>Domain 1: Design Resilient Architectures 30%</summary>
+  <summary>Expand>
 <img width="807" alt="image" src="https://user-images.githubusercontent.com/44328319/133793047-a5f83399-c53b-4bbb-b12f-322619eb123f.png">
 
 </details>
