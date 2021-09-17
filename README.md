@@ -3,7 +3,7 @@ This repo is a guide to taking security speciality cert in 2021. The AWS website
 
 ## My Key Resources: 
 * [acloudguru hands on course](https://acloudguru.com/course/aws-certified-security-specialty)
-* [Tutorial Dojo Practice Exams](https://portal.tutorialsdojo.com/courses/aws-certified-security-specialty-practice-exams/)
+* [Tutorial Dojo Practice Exams](https://portal.tutorialsdojo.com/courses/aws-certified-security-specialty-practice-exams/lessons/practice-exams-timed-mode-7/)
 
 ## Scoring
 <details>
