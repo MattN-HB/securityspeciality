@@ -90,8 +90,10 @@ Version 2.0SCS-C014|P A G E
 
 3.4 Design and implement host-based security.
 * Given security requirements, install and configure host-based protections including Inspector, SSM.
-* Decide when to use host-based firewall like iptables.Recommend methods for host hardening and monitoring.
+* Decide when to use host-based firewall like iptables.Recommend methods for host hardening and monitoring.  
 </details>
+
+<details>
   <summary>Domain 4: Identity and Access Management </summary>
   
 4.1 Design and implement a scalable authorization and authentication system to access AWS resources.
