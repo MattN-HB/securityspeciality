@@ -21,20 +21,17 @@ This repo is a guide to taking security speciality cert in 2021. The AWS website
 
 <details>
   <summary>Domain 1: Incdident Response </summary>
-    1.1 Given an AWS abuse notice, evaluate the suspected compromised instance or exposed access keys.
-  
+   1.1 Given an AWS abuse notice, evaluate the suspected compromised instance or exposed access keys.
     * Given an AWS Abuse report about an EC2 instance, securely isolate the instance as part of a forensic investigation.
     * Analyze logs relevant to a reported instance to verify a breach, and collect relevant data.
     * Capture a memory dump from a suspected instancefor later deep analysis or for legal compliance reasons.
   
-    1.2 Verify that the Incident Response plan includes relevant AWS services.
-  
+   1.2 Verify that the Incident Response plan includes relevant AWS services.
     * Determine if changes to baseline security configuration have been made.
     * Determine if list omits services,processes, or procedures which facilitate Incident Response.
     * Recommend services, processes, procedures to remediate gaps.
   
-    1.3 Evaluate the configuration of automated alerting, and execute possible remediation of security-related incidents and emerging issues.
-  
+   1.3 Evaluate the configuration of automated alerting, and execute possible remediation of security-related incidents and emerging issues.
     * Automate evaluation of conformance with rules for new/changed/removed resources.
     * Apply rule-based alerts for common infrastructure misconfigurations.
     * Review previous security incidents and recommend improvements to existing systems
