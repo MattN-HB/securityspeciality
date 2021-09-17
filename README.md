@@ -21,7 +21,7 @@ This repo is a guide to taking security speciality cert in 2021. The AWS website
 
 <details>
   <summary>Domain 1: Incdident Response </summary>
-   1.1 Given an AWS abuse notice, evaluate the suspected compromised instance or exposed access keys.
+   * Given an AWS abuse notice, evaluate the suspected compromised instance or exposed access keys.
     * Given an AWS Abuse report about an EC2 instance, securely isolate the instance as part of a forensic investigation.
     * Analyze logs relevant to a reported instance to verify a breach, and collect relevant data.
     * Capture a memory dump from a suspected instancefor later deep analysis or for legal compliance reasons.
