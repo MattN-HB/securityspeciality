@@ -36,6 +36,97 @@ This repo is a guide to taking security speciality cert in 2021. The AWS website
 * Automate evaluation of conformance with rules for new/changed/removed resources.
 * Apply rule-based alerts for common infrastructure misconfigurations.
 * Review previous security incidents and recommend improvements to existing systems
+  
+</details>
+<details>
+  <summary>Domain 2: Logging and Monitoring </summary>
+  
+2.1 Design and implement security monitoring and alerting.
+* Analyze architecture and identify monitoring requirements and sources for monitoring statistics.
+* Analyze architecture to determine which AWS services can be used to automate monitoring and alerting.*
+* Analyze the requirements for custom application monitoring, and determine how this could be achieved.
+* Setup automated tools/scripts to perform regular audits.
+Version 2.0SCS-C014|P A G E
+
+2.2 Troubleshoot security monitoring and alerting.
+* Given an occurrence of a known event without the expected alerting, analyze the service functionality and configuration andremediate.
+* Given an occurrence of a known event without the expected alerting, analyze the permissions and remediate.
+* Given a custom application which is not reporting its statistics, analyze the configuration and remediate.
+* Review audit trails of system and user activity.
+
+2.3 Design and implement a logging solution.
+* Analyze architecture and identify logging requirements and sources for log ingestion.
+* Analyze requirements and implement durable and secure log storage according to AWS best practices.
+* Analyzearchitecture to determine which AWS services can be used to automate log ingestion and analysis.
+
+2.4Troubleshoot logging solutions.
+* Given the absence of logs, determine the incorrect configuration and define remediation steps.
+* Analyze logging access permissions to determine incorrect configuration and define remediation steps.
+* Based on the security policy requirements, determine the correct log level, type, and sources
+</details>
+
+
+<details>
+  <summary>Domain 3: Infrastructure Security </summary>
+  
+3.1 Design edge security on AWS.
+* For a given workload, assess and limit the attack surface.
+* Reduce blast radius (e.g. by distributing applications across accounts and regions).
+* Choose appropriate AWS and/or third-party edge services such as WAF, CloudFront and Route53 to protect against DDoS or filter application-level attacks.
+* Given a set of edge protection requirements for an application, evaluate the mechanisms to prevent and detect intrusions for compliance and recommend required changes.
+* Test WAF rules to ensure they block malicious traffic.
+
+3.2 Design and implement a secure network infrastructure.
+* Disable any unnecessary network ports and protocols.
+* Given a set of edge protection requirements, evaluate the security groups and NACLs of an application for compliance and recommend required changes.
+* Given security requirements, decide on network segmentation (e.g. security groups and NACLs) that allow the minimum ingress/egress access required.
+* Determine the use case for VPN or Direct Connect.Determine the use case for enabling VPC Flow Logs.
+* Given a description of the network infrastructure for a VPC, analyze the use of subnets and gateways for secure operation.
+
+3.3 Troubleshoot a secure network infrastructure.
+* Determine where network traffic flow is being denied.
+* Given a configuration,confirm security groups and NACLs have been implemented correctly.
+
+
+3.4 Design and implement host-based security.
+* Given security requirements, install and configure host-based protections including Inspector, SSM.
+* Decide when to use host-based firewall like iptables.Recommend methods for host hardening and monitoring.
+</details>
+  <summary>Domain 4: Identity and Access Management </summary>
+  
+4.1 Design and implement a scalable authorization and authentication system to access AWS resources.
+* Given a description of a workload, analyze the access control configuration for AWS services and make recommendations that reduce risk.
+* Given a description how an organization manages their AWS accounts, verify security of their root user.
+* Given your organization’s compliance requirements, determine when to apply user policies and resource policies.
+* Within an organization’s policy, determine when to federate a directory services to IAM.
+* Design a scalable authorization model that includes users, groups, roles, and policies.
+* Identify and restrict individual users of data and AWS resources.
+* Review policies to establish that users/systems are restricted from performing functions beyond their responsibility, and also enforce proper separation of duties.
+
+4.2 Troubleshoot an authorization and authentication system to access AWS resources.
+* Investigate a user’s inability to access S3 bucket contents.
+* Investigate a user’s inability to switchroles to a different account.
+* Investigate an Amazon EC2 instance’s inability to access a given AWS resource
+
+</details>
+<details>
+  <summary>Domain 5: Data Protection</summary>
+  
+5.1 Design and implement key management and use.
+* Analyze a given scenario to determine an appropriate key management solution.
+* Given a set of data protection requirements, evaluate key usage and recommend required changes.
+* Determine and control the blast radius of a key compromise event and design a solution to contain the same.
+
+5.2 Troubleshoot key management.
+* Breakdown the difference between a KMS key grant and IAM policy.
+* Deduce the precedence given different conflicting policies for a given key.
+* Determine when and how to revoke permissions for a user or service in the event of a compromise.
+
+5.3 Design and implement a data encryption solution for data at rest and data in transit.
+* Given a set of data protection requirements, evaluate the security of the data at rest in a workload and recommend required changes.
+* Verify policy on a key such that it can only beused by specific AWS services.
+* Distinguish the compliance state of data through tag-based data classifications and automate remediation.
+* Evaluate a number of transport encryption techniques and select the appropriate method (i.e. TLS, IPsec, client-side KMS encryption).
 </details>
 
 ## Areas Covered
