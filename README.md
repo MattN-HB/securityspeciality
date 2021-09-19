@@ -135,29 +135,13 @@ Version 2.0SCS-C014|P A G E
 ## Areas Covered/Tips
 <details>
   <summary>AWS Shared Responsibility</summary>
-![SmartSelect_20210917-135744_A Cloud Guru](https://user-images.githubusercontent.com/44328319/133935936-4d8d9f84-7dbc-4f73-ae2f-fd90276082c0.jpg)
-![SmartSelect_20210917-140741_A Cloud Guru](https://user-images.githubusercontent.com/44328319/133935944-6dd4f4d6-623b-455b-9899-156e1015d4c2.jpg)
-![SmartSelect_20210917-141006_A Cloud Guru](https://user-images.githubusercontent.com/44328319/133935952-c4912dea-2b4a-42f4-a1cb-4ba8dbd0987c.jpg)
-![SmartSelect_20210917-141734_A Cloud Guru](https://user-images.githubusercontent.com/44328319/133935961-6b702f08-36d1-49b7-aa57-2885aaf23c72.jpg)
-![SmartSelect_20210917-141750_A Cloud Guru](https://user-images.githubusercontent.com/44328319/133935963-fa1b4c5c-64e5-4bda-8bc1-5436a9aeb68d.jpg)
+    ![Screenshot_20210917-141936_A Cloud Guru](https://user-images.githubusercontent.com/44328319/133936139-90aa9464-850e-4124-bfd6-c2a9f25261e9.jpg)
+    ![SmartSelect_20210917-135744_A Cloud Guru](https://user-images.githubusercontent.com/44328319/133936141-bb29c1b4-0e79-4db2-99e1-a46e13c0700d.jpg)
 
 
 </details>
 <details>
   <summary>IAM,Bucket Policies, and Cross Region Replication (CRR)</summary>
-![SmartSelect_20210917-142119_A Cloud Guru](https://user-images.githubusercontent.com/44328319/133935990-992cdfca-5321-4026-87be-8ed023b48063.jpg)
-![SmartSelect_20210917-142139_A Cloud Guru](https://user-images.githubusercontent.com/44328319/133935993-8c0a385f-b952-45a5-83e0-5496a9f46553.jpg)
-![SmartSelect_20210917-143250_A Cloud Guru](https://user-images.githubusercontent.com/44328319/133935994-42cd48b0-8724-4644-8588-acae52f72668.jpg)
-![SmartSelect_20210917-144209_A Cloud Guru](https://user-images.githubusercontent.com/44328319/133935996-34b01e8c-1d0c-4170-9e07-217162958dfb.jpg)
-![SmartSelect_20210917-145249_A Cloud Guru](https://user-images.githubusercontent.com/44328319/133935998-43aafaae-a3ec-40ea-9aa5-67cf96120fba.jpg)
-![SmartSelect_20210917-145813_A Cloud Guru](https://user-images.githubusercontent.com/44328319/133936000-3f30d459-f00d-44aa-954b-348a943b4cd6.jpg)
-![SmartSelect_20210917-150153_A Cloud Guru](https://user-images.githubusercontent.com/44328319/133936001-e0a73db5-ba2a-488b-bb0a-493d9b05723c.jpg)
-![SmartSelect_20210917-150242_A Cloud Guru](https://user-images.githubusercontent.com/44328319/133936002-d71ccdfc-c90a-4cb6-ad15-9a8af7756ee6.jpg)
-![Screenshot_20210917-143813_A Cloud Guru](https://user-images.githubusercontent.com/44328319/133936043-c2efc977-6c85-4a5a-bea0-9fa454ffe33c.jpg)
-![Screenshot_20210917-144329_A Cloud Guru](https://user-images.githubusercontent.com/44328319/133936044-dae71759-72ce-4e0e-9741-a8259bd22cf1.jpg)
-![Screenshot_20210917-145140_A Cloud Guru](https://user-images.githubusercontent.com/44328319/133936046-f468c618-09ca-47bd-813e-cb0f269bbc4c.jpg)
-![Screenshot_20210917-145603_A Cloud Guru](https://user-images.githubusercontent.com/44328319/133936047-e40fba37-bdf4-456d-9178-bb22e5a8b901.jpg)
-![Screenshot_20210917-150001_A Cloud Guru](https://user-images.githubusercontent.com/44328319/133936049-0f707937-4688-4301-80cd-707e350a1104.jpg)
 
 </details>
   
