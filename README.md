@@ -135,8 +135,7 @@ Version 2.0SCS-C014|P A G E
 ## Areas Covered/Tips
 <details>
   <summary>AWS Shared Responsibility</summary>
-    ![Screenshot_20210917-141936_A Cloud Guru](https://user-images.githubusercontent.com/44328319/133936139-90aa9464-850e-4124-bfd6-c2a9f25261e9.jpg)
-    ![SmartSelect_20210917-135744_A Cloud Guru](https://user-images.githubusercontent.com/44328319/133936141-bb29c1b4-0e79-4db2-99e1-a46e13c0700d.jpg)
+      <img width="1265" alt="image" src="https://user-images.githubusercontent.com/44328319/133936186-4f2fd92a-c589-42fe-b712-bb8852d28749.png">
 
 
 </details>
