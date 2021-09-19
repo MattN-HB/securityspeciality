@@ -135,13 +135,41 @@ Version 2.0SCS-C014|P A G E
 ## Areas Covered/Tips
 <details>
   <summary>AWS Shared Responsibility</summary>
+  
+      <img width="406" alt="image" src="https://user-images.githubusercontent.com/44328319/133936461-073ed22c-8298-4232-aac8-375968e5e2ac.png">
+      <img width="1045" alt="image" src="https://user-images.githubusercontent.com/44328319/133936239-673da30a-479b-45ec-8d0e-907ac5546118.png">
       <img width="1265" alt="image" src="https://user-images.githubusercontent.com/44328319/133936186-4f2fd92a-c589-42fe-b712-bb8852d28749.png">
+      <img width="241" alt="image" src="https://user-images.githubusercontent.com/44328319/133936265-a9281a8f-e848-4572-8365-36a048b3a1d6.png">
+
 
 
 </details>
 <details>
-  <summary>IAM,Bucket Policies, and Cross Region Replication (CRR)</summary>
+  <summary>IAM</summary>
+    
+    <img width="245" alt="image" src="https://user-images.githubusercontent.com/44328319/133936280-baf4f25d-83a5-4c98-be57-d3f7f8c6b258.png">
+    <img width="240" alt="image" src="https://user-images.githubusercontent.com/44328319/133936293-d03014fd-94bc-4e94-8dcb-4c7f756d3dff.png">
+    <img width="225" alt="image" src="https://user-images.githubusercontent.com/44328319/133936304-a06c2b3f-7cee-4119-9358-ebc89f913361.png">
+ 
+</details>
+ 
+<details>
+  <summary>Bucket Policies, and Cross Region Replication (CRR)</summary>
+  
+  <img width="251" alt="image" src="https://user-images.githubusercontent.com/44328319/133936329-c50e8a26-fd61-4e43-a4a0-41056574ccf2.png">
+  <img width="423" alt="image" src="https://user-images.githubusercontent.com/44328319/133936341-c793ed62-3ffd-42bd-bd5e-1dafdc52983e.png">
+  <img width="359" alt="image" src="https://user-images.githubusercontent.com/44328319/133936469-877b6c3d-31fa-4ee9-bc6e-819b84bbaf0e.png">
+  <img width="403" alt="image" src="https://user-images.githubusercontent.com/44328319/133936353-34a502f4-0da7-4978-a27a-f1610d3c5c09.png">
+  <img width="371" alt="image" src="https://user-images.githubusercontent.com/44328319/133936490-9e13d487-1f2d-46d1-aaab-e751aae3193b.png">
+  <img width="413" alt="image" src="https://user-images.githubusercontent.com/44328319/133936356-8679fda4-dfed-44ec-8c83-caff89c65c62.png">
+  <img width="412" alt="image" src="https://user-images.githubusercontent.com/44328319/133936369-8f69d8d2-e847-4c03-a64a-e4145a40df8d.png">
+  <img width="335" alt="image" src="https://user-images.githubusercontent.com/44328319/133936499-8512bf7e-cb79-4bd8-9832-f77bbdfd0c1a.png">
+  <img width="398" alt="image" src="https://user-images.githubusercontent.com/44328319/133936502-8f041410-2519-49cd-a312-d5e2a1e2461d.png">
 
+
+
+    
+ 
 </details>
   
 ## Resources
