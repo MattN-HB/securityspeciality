@@ -181,6 +181,7 @@ Version 2.0SCS-C014|P A G E
 * Copies file from local to bucket```aws s3 cp <path> s3://<bucket>```
 * List buckets```aws s3 ls```
 * List Bucket Content: ```aws s3 ls s3://<bucket>```
+* How get canicol names via cli `aws s3api list-buckets`
 * Create s3 bucket ```aws s3api create-bucket --bucket <bucketname> --region us-east-1```
 * grab your environment variables from cli ```env | grep ^AWS```
 * What is the policies attached to that user ```aws iam list-attached-user-policies --user-name=$AWS_ACCOUNT_USERNAME```
