@@ -136,20 +136,18 @@ Version 2.0SCS-C014|P A G E
 <details>
   <summary>AWS Shared Responsibility</summary>
   
-      <img width="406" alt="image" src="https://user-images.githubusercontent.com/44328319/133936461-073ed22c-8298-4232-aac8-375968e5e2ac.png">
-      <img width="1045" alt="image" src="https://user-images.githubusercontent.com/44328319/133936239-673da30a-479b-45ec-8d0e-907ac5546118.png">
-      <img width="1265" alt="image" src="https://user-images.githubusercontent.com/44328319/133936186-4f2fd92a-c589-42fe-b712-bb8852d28749.png">
-      <img width="241" alt="image" src="https://user-images.githubusercontent.com/44328319/133936265-a9281a8f-e848-4572-8365-36a048b3a1d6.png">
-
-
+  <img width="406" alt="image" src="https://user-images.githubusercontent.com/44328319/133936461-073ed22c-8298-4232-aac8-375968e5e2ac.png">
+  <img width="1045" alt="image" src="https://user-images.githubusercontent.com/44328319/133936239-673da30a-479b-45ec-8d0e-907ac5546118.png">
+  <img width="1265" alt="image" src="https://user-images.githubusercontent.com/44328319/133936186-4f2fd92a-c589-42fe-b712-bb8852d28749.png">
+  <img width="241" alt="image" src="https://user-images.githubusercontent.com/44328319/133936265-a9281a8f-e848-4572-8365-36a048b3a1d6.png">
 
 </details>
 <details>
   <summary>IAM</summary>
     
-    <img width="245" alt="image" src="https://user-images.githubusercontent.com/44328319/133936280-baf4f25d-83a5-4c98-be57-d3f7f8c6b258.png">
-    <img width="240" alt="image" src="https://user-images.githubusercontent.com/44328319/133936293-d03014fd-94bc-4e94-8dcb-4c7f756d3dff.png">
-    <img width="225" alt="image" src="https://user-images.githubusercontent.com/44328319/133936304-a06c2b3f-7cee-4119-9358-ebc89f913361.png">
+  <img width="245" alt="image" src="https://user-images.githubusercontent.com/44328319/133936280-baf4f25d-83a5-4c98-be57-d3f7f8c6b258.png">
+  <img width="240" alt="image" src="https://user-images.githubusercontent.com/44328319/133936293-d03014fd-94bc-4e94-8dcb-4c7f756d3dff.png">
+  <img width="225" alt="image" src="https://user-images.githubusercontent.com/44328319/133936304-a06c2b3f-7cee-4119-9358-ebc89f913361.png">
  
 </details>
  
@@ -165,11 +163,7 @@ Version 2.0SCS-C014|P A G E
   <img width="412" alt="image" src="https://user-images.githubusercontent.com/44328319/133936369-8f69d8d2-e847-4c03-a64a-e4145a40df8d.png">
   <img width="335" alt="image" src="https://user-images.githubusercontent.com/44328319/133936499-8512bf7e-cb79-4bd8-9832-f77bbdfd0c1a.png">
   <img width="398" alt="image" src="https://user-images.githubusercontent.com/44328319/133936502-8f041410-2519-49cd-a312-d5e2a1e2461d.png">
-
-
-
     
- 
 </details>
   
 ## Resources
