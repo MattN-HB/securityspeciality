@@ -168,8 +168,9 @@ Version 2.0SCS-C014|P A G E
 <details>
   <summary>Cloudfront, S3 OAI, Custom SSL Certs</summary>
   Steps to set up OAI see below in order for exam
-  <img width="536" alt="image" src="https://user-images.githubusercontent.com/44328319/134004317-09945c2d-4bf7-4d7f-88c6-640c35829d11.png">
-  
+  <img width="536" alt="image" src="https://user-images.githubusercontent.com/44328319/134004317-09945c2d-4bf7-4d7f-88c6-640c35829d11.png">  
+  <img width="1081" alt="image" src="https://user-images.githubusercontent.com/44328319/134005268-b56b0dc0-210b-44d8-8682-c768ad23dd64.png">
+
 </details>
 
 ## Resources
