@@ -170,8 +170,6 @@ Version 2.0SCS-C014|P A G E
   Steps to set up OAI see below in order for exam
   <img width="536" alt="image" src="https://user-images.githubusercontent.com/44328319/134004317-09945c2d-4bf7-4d7f-88c6-640c35829d11.png">
   
-
-
 </details>
 
 ## Resources
