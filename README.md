@@ -166,10 +166,11 @@ Version 2.0SCS-C014|P A G E
     
 </details>
 <details>
-  <summary>Cloudfront, S3 OAI, Custom SSL Certs</summary>
+  <summary>Cloudfront, S3 OAI, Custom SSL Certs, Presigned Urls</summary>
   Steps to set up OAI see below in order for exam
   <img width="536" alt="image" src="https://user-images.githubusercontent.com/44328319/134004317-09945c2d-4bf7-4d7f-88c6-640c35829d11.png">  
   <img width="1081" alt="image" src="https://user-images.githubusercontent.com/44328319/134005268-b56b0dc0-210b-44d8-8682-c768ad23dd64.png">
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/44328319/134006453-5ee89c7b-7bb6-4e34-8574-4f07d60e5601.png">
 
 </details>
 
@@ -185,6 +186,7 @@ Version 2.0SCS-C014|P A G E
   <summary>Expand</summary>
   
 * ```aws configure```
+* presigned url `aws s3 presign s3://url --expires-in 300`
 * Copies file from local to bucket```aws s3 cp <path> s3://<bucket>```
 * List buckets```aws s3 ls```
 * List Bucket Content: ```aws s3 ls s3://<bucket>```
