@@ -165,7 +165,15 @@ Version 2.0SCS-C014|P A G E
   <img width="398" alt="image" src="https://user-images.githubusercontent.com/44328319/133936502-8f041410-2519-49cd-a312-d5e2a1e2461d.png">
     
 </details>
+<details>
+  <summary>Cloudfront, S3 OAI, Custom SSL Certs</summary>
+  Steps to set up OAI see below in order for exam
+  <img width="536" alt="image" src="https://user-images.githubusercontent.com/44328319/134004317-09945c2d-4bf7-4d7f-88c6-640c35829d11.png">
   
+
+
+</details>
+
 ## Resources
 <details>
     <summary>Expand</summary>
