@@ -173,6 +173,21 @@ Version 2.0SCS-C014|P A G E
   <img width="1141" alt="image" src="https://user-images.githubusercontent.com/44328319/134006453-5ee89c7b-7bb6-4e34-8574-4f07d60e5601.png">
 
 </details>
+<details>
+  <summary>STS, Cognito pools, Glacier Vault,Orgs,and Credential Reports</summary>
+  <img width="611" alt="image" src="https://user-images.githubusercontent.com/44328319/134177190-5567ee95-563e-43de-8aa2-65c15dbfa736.png">
+  <img width="611" alt="image" src="https://user-images.githubusercontent.com/44328319/134177234-b1c82b20-9510-4e2e-a5ee-6e36808295f8.png">
+  <img width="352" alt="image" src="https://user-images.githubusercontent.com/44328319/134177302-310ef83a-e25b-4485-8d0c-9d0ce7a1fa92.png">
+  <img width="627" alt="image" src="https://user-images.githubusercontent.com/44328319/134177350-19668af6-19c7-4765-9c6c-85df590ec6c8.png">
+  <img width="624" alt="image" src="https://user-images.githubusercontent.com/44328319/134177401-2a75ad3e-0547-4e11-ba69-c39b639f02f2.png">
+  <img width="613" alt="image" src="https://user-images.githubusercontent.com/44328319/134177462-2009703b-28f4-4dae-939f-a366b84f9593.png">
+  <img width="631" alt="image" src="https://user-images.githubusercontent.com/44328319/134177510-bca8e43d-fbf6-4880-a3b9-2b4e0e07ac94.png">
+  <img width="631" alt="image" src="https://user-images.githubusercontent.com/44328319/134177569-5583daf4-6f01-4cfa-b20c-0067ae88133b.png">
+  <img width="643" alt="image" src="https://user-images.githubusercontent.com/44328319/134177601-68a1c46b-de9f-434b-a559-2caadc039e72.png">
+  <img width="597" alt="image" src="https://user-images.githubusercontent.com/44328319/134177653-951837ef-ca2b-47cf-988e-7e02f5d7a1c7.png">
+
+
+</details>
 
 ## Resources
 <details>
