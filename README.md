@@ -258,7 +258,16 @@ Power-Access --policy-document { "Statement":[{ "Effect":
  <details>
     <summary>Expand</summary>
    
- * 
+ * 2 services to check ssh open: Config and Trusted Advisor
+ * Visibility = Config
+ * Multi tenant key service = KMS
+ * Customer Shared Responsibility = Configure IAM and apply sec updates
+ * 2 services automate tech tasks to avoid human erorr = ops works and codedeploy
+ * Principal in IAM permissions = user, account, service to allow or deny
+ * Service control Policies = guardrail and org units accesses
+ * AWS API used to AD = STS 
+ * Temp access to object = presigned url 
+ * Permission Boundaries = used to limit max permissions for user roles or users
    
  </details>  
 
