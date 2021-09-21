@@ -269,6 +269,9 @@ Power-Access --policy-document { "Statement":[{ "Effect":
  * Temp access to object = presigned url 
  * Permission Boundaries = used to limit max permissions for user roles or users
  * custom ssl needs be in stored in us-east1 cert store
+ * Vault lock = can't be changed when implemented
+ * AD federation = users must navigate to ADFS signin and users do not need IAM creds
+ * Steps cross region replication = owner destination bucket grants source owner via bucket policy permission to replicate
    
  </details>  
 
