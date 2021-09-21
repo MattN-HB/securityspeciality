@@ -268,6 +268,7 @@ Power-Access --policy-document { "Statement":[{ "Effect":
  * AWS API used to AD = STS 
  * Temp access to object = presigned url 
  * Permission Boundaries = used to limit max permissions for user roles or users
+ * custom ssl needs be in stored in us-east1 cert store
    
  </details>  
 
