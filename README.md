@@ -215,6 +215,7 @@ Version 2.0SCS-C014|P A G E
   ![image](https://user-images.githubusercontent.com/44328319/134355527-938d035d-43b1-420e-af31-40efa28742dc.png)
 
  </details>  
+ 
 ## Resources
 <details>
     <summary>Expand</summary>
