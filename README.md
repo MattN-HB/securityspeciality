@@ -230,6 +230,7 @@ Version 2.0SCS-C014|P A G E
  
   <details>
   <summary>Inspector vs Trusted Advisor</summary>
+  
   ![image](https://user-images.githubusercontent.com/44328319/134357323-a55d80f5-b971-4e8d-92f0-2c93b62590e8.png)
   ![image](https://user-images.githubusercontent.com/44328319/134357385-ad75126d-333d-4474-9e63-8f6e7a04452b.png)
   ![image](https://user-images.githubusercontent.com/44328319/134357489-a6edee5e-ed2a-49d4-a8ed-ee90fad994df.png)
