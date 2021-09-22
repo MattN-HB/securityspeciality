@@ -213,6 +213,27 @@ Version 2.0SCS-C014|P A G E
   
   ![image](https://user-images.githubusercontent.com/44328319/134355480-f8260ca1-5c23-4245-8e86-3f56b7963849.png)
   ![image](https://user-images.githubusercontent.com/44328319/134355527-938d035d-43b1-420e-af31-40efa28742dc.png)
+  ![image](https://user-images.githubusercontent.com/44328319/134357716-e6c1162a-51c3-4553-bcdb-b1632d671b63.png)
+  Know when to use above 
+  
+  ![image](https://user-images.githubusercontent.com/44328319/134357918-6dbf2028-5394-4da5-9e11-2356c6046b83.png)
+
+ </details>  
+ 
+ <details>
+  <summary>Cloud HSM</summary>
+ 
+  ![image](https://user-images.githubusercontent.com/44328319/134356717-1894bb5d-c212-4f19-9e51-f3eaf9c7487a.png)
+  ![image](https://user-images.githubusercontent.com/44328319/134356904-f1e839b0-68e8-4ce6-8ea7-dc6b77cb5979.png)
+
+ </details>  
+ 
+  <details>
+  <summary>Inspector vs Trusted Advisor</summary>
+  ![image](https://user-images.githubusercontent.com/44328319/134357323-a55d80f5-b971-4e8d-92f0-2c93b62590e8.png)
+  ![image](https://user-images.githubusercontent.com/44328319/134357385-ad75126d-333d-4474-9e63-8f6e7a04452b.png)
+  ![image](https://user-images.githubusercontent.com/44328319/134357489-a6edee5e-ed2a-49d4-a8ed-ee90fad994df.png)
+  ![image](https://user-images.githubusercontent.com/44328319/134357436-fd648385-765a-480b-a687-bb985e48e55a.png)
 
  </details>  
  
