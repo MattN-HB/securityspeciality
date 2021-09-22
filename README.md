@@ -190,17 +190,19 @@ Version 2.0SCS-C014|P A G E
 </details>
 <details>
   <summary>Cloudtrail</summary>
-   ![image](https://user-images.githubusercontent.com/44328319/134353748-9207bda6-d8d5-401f-b96a-bb3db1ee2a91.png)
-   This does not log RDP/SSH sessions.
-   ![image](https://user-images.githubusercontent.com/44328319/134354253-56bb2df9-9da8-4b89-8ce9-d2185f534414.png)
-   ![image](https://user-images.githubusercontent.com/44328319/134354152-9cac7580-40fa-4f4d-8cf7-6af808cc258e.png)
-   ![image](https://user-images.githubusercontent.com/44328319/134354337-0e3760a7-ea9f-44f6-8695-ee01d25e57b8.png)
-   ![image](https://user-images.githubusercontent.com/44328319/134354487-16e7ce82-224b-431b-a19e-6c404db27676.png)   
-   ![image](https://user-images.githubusercontent.com/44328319/134354537-0478a2e5-6dde-429d-85e1-651617a045e7.png)
+  
+  ![image](https://user-images.githubusercontent.com/44328319/134353748-9207bda6-d8d5-401f-b96a-bb3db1ee2a91.png)
+  This does not log RDP/SSH sessions.
+  ![image](https://user-images.githubusercontent.com/44328319/134354253-56bb2df9-9da8-4b89-8ce9-d2185f534414.png)
+  ![image](https://user-images.githubusercontent.com/44328319/134354152-9cac7580-40fa-4f4d-8cf7-6af808cc258e.png)
+  ![image](https://user-images.githubusercontent.com/44328319/134354337-0e3760a7-ea9f-44f6-8695-ee01d25e57b8.png)
+  ![image](https://user-images.githubusercontent.com/44328319/134354487-16e7ce82-224b-431b-a19e-6c404db27676.png)   
+  ![image](https://user-images.githubusercontent.com/44328319/134354537-0478a2e5-6dde-429d-85e1-651617a045e7.png)
 
  </details>  
  <details>
   <summary>Cloudwatch</summary>
+  
   ![image](https://user-images.githubusercontent.com/44328319/134354953-e861b9e6-f53a-454c-ba03-43e4507f896b.png)
   ![image](https://user-images.githubusercontent.com/44328319/134354974-dece39f9-456a-4979-8775-7431f6c06e75.png)
   ![image](https://user-images.githubusercontent.com/44328319/134355060-7374ea41-c2fa-45d3-bfa4-b203a6aecc51.png)
@@ -208,6 +210,7 @@ Version 2.0SCS-C014|P A G E
  
   <details>
   <summary>Config</summary>
+  
   ![image](https://user-images.githubusercontent.com/44328319/134355480-f8260ca1-5c23-4245-8e86-3f56b7963849.png)
   ![image](https://user-images.githubusercontent.com/44328319/134355527-938d035d-43b1-420e-af31-40efa28742dc.png)
 
