@@ -321,6 +321,8 @@ Power-Access --policy-document { "Statement":[{ "Effect":
  * Vault lock = can't be changed when implemented
  * AD federation = users must navigate to ADFS signin and users do not need IAM creds
  * Steps cross region replication = owner destination bucket grants source owner via bucket policy permission to replicate
+ * Cloudwatch = log aggregation, resource utilization, trigger lambda
+ * What inspector package checks for root login over ssh: security best practices and CIS.
    
  </details>  
 
