@@ -290,6 +290,9 @@ Version 2.0SCS-C014|P A G E
  
   <details>
   <summary>Hypervisor</summary>
+   
+   <img width="893" alt="image" src="https://user-images.githubusercontent.com/44328319/134987063-dafe91f6-a9db-4444-a771-eebfb1c7013b.png">
+   <img width="951" alt="image" src="https://user-images.githubusercontent.com/44328319/134987145-f348966d-526c-4891-a556-23761a0d858f.png">
 
  </details> 
  
@@ -297,14 +300,44 @@ Version 2.0SCS-C014|P A G E
 <details>
     <summary>Expand</summary>
  
-* [Cloudtrail Supported services](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-aws-service-specific-topics.html)
- </details> 
- * [WAF cloudformation](https://s3.amazonaws.com/cloudformation-examples/community/common-attacks.json)
+      * [Cloudtrail Supported services](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-aws-service-specific-topics.html) 
+      * [WAF cloudformation](https://s3.amazonaws.com/cloudformation-examples/community/common-attacks.json)
+</details>
 
 ## CLI Helpful Commands
 <details>
   <summary>Expand</summary>
-  
+
+* Key related commands
+    ```#Create a new key and make a note of the region you are working in 
+    aws kms create-key
+
+    #Test encrypting plain text using my new key: 
+    aws kms encrypt --plaintext "hello" --key-id <key_arn>
+
+    #Create a new user called Dave and generate access key / secret access key
+    aws iam create-user --user-name dave
+    aws iam create-access-key --user-name dave
+
+    #Run aws configure using Dave's credentials creating a CLI profile for him
+    aws configure --profile dave
+    aws kms encrypt --plaintext "hello" --key-id <key_arn> --profile dave
+
+    #Create a grant for user called Dave
+    aws iam get-user --user-name dave
+    aws kms create-grant --key-id <key_arn> --grantee-principal <Dave's_arn> --operations "Encrypt"
+
+    #Encrypt plain text as user Dave: 
+    aws kms encrypt --plaintext "hello" --key-id <key_arn> --grant-tokens <grant_token_from_previous_command> --profile dave
+
+    #Revoke the grant:
+    aws kms list-grants --key-id <key_arn>
+    aws kms revoke-grant --key-id <key_arn> --grant-id <grant_id>
+
+    #Check that the revoke was successful:
+    aws kms encrypt --plaintext "hello" --key-id <key_arn> --profile dave
+
+    https://docs.aws.amazon.com/cli/latest/reference/kms/create-grant.html ```
 * ```aws configure```
 * presigned url `aws s3 presign s3://url --expires-in 300`
 * Copies file from local to bucket```aws s3 cp <path> s3://<bucket>```
