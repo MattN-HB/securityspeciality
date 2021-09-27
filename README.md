@@ -300,8 +300,8 @@ Version 2.0SCS-C014|P A G E
 <details>
     <summary>Expand</summary>
  
-      * [Cloudtrail Supported services](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-aws-service-specific-topics.html) 
-      * [WAF cloudformation](https://s3.amazonaws.com/cloudformation-examples/community/common-attacks.json)
+    * [Cloudtrail Supported services](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-aws-service-specific-topics.html) 
+    * [WAF cloudformation](https://s3.amazonaws.com/cloudformation-examples/community/common-attacks.json)
 </details>
 
 ## CLI Helpful Commands
