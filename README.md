@@ -309,7 +309,9 @@ Version 2.0SCS-C014|P A G E
 
 
  </details> 
+ 
 ## Resources
+
 <details>
     <summary>Expand</summary>
  
