@@ -238,12 +238,68 @@ Version 2.0SCS-C014|P A G E
 
  </details>  
  
+ <details>
+  <summary>KMS</summary>
+  
+  <img width="915" alt="image" src="https://user-images.githubusercontent.com/44328319/134982143-d14e1371-73e1-46c5-9fef-4f5db1ed8e42.png">
+  <img width="790" alt="image" src="https://user-images.githubusercontent.com/44328319/134982184-a46e0d3c-fe43-4cd6-a669-5109345de917.png">
+  <img width="882" alt="image" src="https://user-images.githubusercontent.com/44328319/134982250-a0739e5d-417f-40ac-aaf0-90691b334e36.png">
+  <img width="834" alt="image" src="https://user-images.githubusercontent.com/44328319/134982276-45ded481-e84c-4710-9555-17823be46e1e.png">
+  <img width="807" alt="image" src="https://user-images.githubusercontent.com/44328319/134982313-0c9fb5a9-6d04-43f4-85b7-90cb2cd64d66.png">
+  <img width="740" alt="image" src="https://user-images.githubusercontent.com/44328319/134982438-64d3a19d-d755-4b04-ad87-206d289d166e.png">
+  <img width="696" alt="image" src="https://user-images.githubusercontent.com/44328319/134982386-28967bba-3714-46ad-b879-1086ed9995cd.png">
+  <img width="976" alt="image" src="https://user-images.githubusercontent.com/44328319/134982547-3ba32560-ff2c-4d8d-9257-76dc3b361639.png">
+  <img width="959" alt="image" src="https://user-images.githubusercontent.com/44328319/134982626-76a29879-5145-4e27-9e10-e1aa071a07b0.png">
+  <img width="1063" alt="image" src="https://user-images.githubusercontent.com/44328319/134982777-14d3da6f-bdd3-407b-8fff-79764ffff56e.png">
+  <img width="1049" alt="image" src="https://user-images.githubusercontent.com/44328319/134982810-2ee1beb3-5303-43ee-8739-98babc2b66c1.png">
+  <img width="1054" alt="image" src="https://user-images.githubusercontent.com/44328319/134983007-a5fd2766-590e-4bbe-95ec-ed423f9389ca.png">
+  <img width="961" alt="image" src="https://user-images.githubusercontent.com/44328319/134983883-57618652-2003-4f7b-8ea7-76e7eab5f7ea.png">
+  <img width="905" alt="image" src="https://user-images.githubusercontent.com/44328319/134984026-715c4a08-4e49-4350-8fdb-c324ad6cffc3.png">
+  get your public key pair
+  <img width="1099" alt="image" src="https://user-images.githubusercontent.com/44328319/134984154-00abd6ce-e00b-4d28-8a72-c5074a0ff6c3.png">
+  <img width="1125" alt="image" src="https://user-images.githubusercontent.com/44328319/134984193-3110b949-a6ca-4a6a-a39b-95afb6e28619.png">
+  <img width="991" alt="image" src="https://user-images.githubusercontent.com/44328319/134984450-ed1734bb-1b48-4da7-a44b-f5bb091180c0.png">
+  <img width="931" alt="image" src="https://user-images.githubusercontent.com/44328319/134984503-59e6ed8b-ed34-4cfd-8ab8-f4aed89c65c7.png">
+
+
+ </details>  
+  
+ <details>
+  <summary>Marketplace</summary>
+  
+  <img width="958" alt="image" src="https://user-images.githubusercontent.com/44328319/134985229-dd43c489-b3dc-4b0a-906e-9229c6472d3e.png">
+ </details>  
+ 
+  <details>
+  <summary>WAF and Shield</summary>
+  
+   <img width="916" alt="image" src="https://user-images.githubusercontent.com/44328319/134986346-6c41e277-8a4a-4b2c-b070-61227e10529b.png">
+   <img width="995" alt="image" src="https://user-images.githubusercontent.com/44328319/134986364-fd12866c-615a-4cbc-9c8c-5b3b89f63bd9.png">
+   <img width="976" alt="image" src="https://user-images.githubusercontent.com/44328319/134986449-b52cee59-9c8a-4698-b4c2-c801190f1072.png">
+   <img width="998" alt="image" src="https://user-images.githubusercontent.com/44328319/134986498-d091b3b8-06b9-44ad-812a-467cdb3f78d3.png">
+  
+ </details> 
+ 
+ <details>
+  <summary>Dedicated instances vs hosts</summary>
+  
+  <img width="601" alt="image" src="https://user-images.githubusercontent.com/44328319/134986682-d6eea621-10e9-44fb-a446-a2a46de739c9.png">
+  <img width="944" alt="image" src="https://user-images.githubusercontent.com/44328319/134986721-766afbde-ab41-4d99-a8b2-043d6781cde4.png">
+
+ </details> 
+ 
+  <details>
+  <summary>Hypervisor</summary>
+
+ </details> 
+ 
 ## Resources
 <details>
     <summary>Expand</summary>
-  
+ 
 * [Cloudtrail Supported services](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-aws-service-specific-topics.html)
- </details>  
+ </details> 
+ * [WAF cloudformation](https://s3.amazonaws.com/cloudformation-examples/community/common-attacks.json)
 
 ## CLI Helpful Commands
 <details>
@@ -323,6 +379,7 @@ Power-Access --policy-document { "Statement":[{ "Effect":
  * Steps cross region replication = owner destination bucket grants source owner via bucket policy permission to replicate
  * Cloudwatch = log aggregation, resource utilization, trigger lambda
  * What inspector package checks for root login over ssh: security best practices and CIS.
+ * Cloudfront are global ALB wafs are regional
    
  </details>  
 
