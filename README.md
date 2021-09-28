@@ -409,6 +409,7 @@ Power-Access --policy-document { "Statement":[{ "Effect":
 </details>
 
 ## My Personal Cheat Sheet / Takeways
+      
  <details>
     <summary>Expand</summary>
    
@@ -429,6 +430,15 @@ Power-Access --policy-document { "Statement":[{ "Effect":
  * Cloudwatch = log aggregation, resource utilization, trigger lambda
  * What inspector package checks for root login over ssh: security best practices and CIS.
  * Cloudfront are global ALB wafs are regional
+ * Policy conditions used for in key policy: WHEN IN EFFECT
+ * Options in WAF = BLOCK, ALLOW, COUNT
+ * Rotation freq AWS MANAGED KEYs= 3 yrs can't be changed
+ * KMS Grant WHEN = TEMP ACCESS
+ * Can you move customer cmk region to region? No 
+ * Benefit of key rotation on cmk = can be done manually whenver
+ * Advantages own key material cmk = use your own key material / set reqs , delete any time without waiting 7 to 30 days
+ * Customer managed cmk rotation = 1 yr automation
+ * All kms cmk to s3 how would configure = `kms:ViaService` condition key in "key policy" or "in IAM Policy".
    
  </details>  
 
