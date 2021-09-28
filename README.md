@@ -344,16 +344,28 @@ Version 2.0SCS-C014|P A G E
 <img width="894" alt="image" src="https://user-images.githubusercontent.com/44328319/135100170-02dfdaaf-2041-47f7-8ee6-d355c84959d5.png">
 
 </details>  
+
+
+<details>
+<summary>DDOS</summary>
+
+<img width="832" alt="image" src="https://user-images.githubusercontent.com/44328319/135170201-8f887990-8698-47ea-974a-c4178dcaa098.png">
+<img width="988" alt="image" src="https://user-images.githubusercontent.com/44328319/135170455-ebbde8c6-0ed3-4509-83bf-10479723a931.png">
+<img width="1046" alt="image" src="https://user-images.githubusercontent.com/44328319/135170531-267f21e1-beb1-459c-bf88-c44ba3ffb4fe.png">
+
+</details>
  
 ## Resources
 
 <details>
-    <summary>Expand</summary>
+<summary>Expand</summary>
  
 * [Cloudtrail Supported services](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-aws-service-specific-topics.html) 
 * [WAF cloudformation](https://s3.amazonaws.com/cloudformation-examples/community/common-attacks.json)
 
 </details>
+
+
 
 ## CLI Helpful Commands
 <details>
