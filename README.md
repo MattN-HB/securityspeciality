@@ -299,49 +299,49 @@ Version 2.0SCS-C014|P A G E
  </details> 
  
  <details>
-    <summary>Containers</summary>
+ <summary>Containers</summary>
   
-     <img width="549" alt="image" src="https://user-images.githubusercontent.com/44328319/134990467-b6f7700b-1ab8-485e-997a-46f4f7365e97.png">
-     <img width="590" alt="image" src="https://user-images.githubusercontent.com/44328319/134990599-561879bb-ced0-4b4f-a1bd-3e6a372c4467.png">
-     <img width="942" alt="image" src="https://user-images.githubusercontent.com/44328319/134990618-e91a385c-bc6f-49fb-ae91-8fd7362b5a57.png">
-     <img width="961" alt="image" src="https://user-images.githubusercontent.com/44328319/134990702-af3f4911-27a4-4790-832f-e699a8c5ef56.png">
-     <img width="626" alt="image" src="https://user-images.githubusercontent.com/44328319/134990744-4f8b46eb-88c1-4a89-a9cd-0f47fe75dfcb.png">
-     <img width="954" alt="image" src="https://user-images.githubusercontent.com/44328319/134990792-2750a636-f56f-4a3b-888f-4c19d42196c5.png">
+  <img width="549" alt="image" src="https://user-images.githubusercontent.com/44328319/134990467-b6f7700b-1ab8-485e-997a-46f4f7365e97.png">
+  <img width="590" alt="image" src="https://user-images.githubusercontent.com/44328319/134990599-561879bb-ced0-4b4f-a1bd-3e6a372c4467.png">
+  <img width="942" alt="image" src="https://user-images.githubusercontent.com/44328319/134990618-e91a385c-bc6f-49fb-ae91-8fd7362b5a57.png">
+  <img width="961" alt="image" src="https://user-images.githubusercontent.com/44328319/134990702-af3f4911-27a4-4790-832f-e699a8c5ef56.png">
+  <img width="626" alt="image" src="https://user-images.githubusercontent.com/44328319/134990744-4f8b46eb-88c1-4a89-a9cd-0f47fe75dfcb.png">
+  <img width="954" alt="image" src="https://user-images.githubusercontent.com/44328319/134990792-2750a636-f56f-4a3b-888f-4c19d42196c5.png">
 
  </details> 
  
  <details>
-    <summary>VPCs, LBs</summary>
+ <summary>VPCs, LBs</summary>
   
-       <img width="1022" alt="image" src="https://user-images.githubusercontent.com/44328319/135096436-6e9e16e6-047e-4044-a39f-e91fcfeb87e1.png">
-       <img width="1050" alt="image" src="https://user-images.githubusercontent.com/44328319/135097012-dcb87195-fc1f-493d-a727-f2b48b3da5ca.png">
-       <img width="1055" alt="image" src="https://user-images.githubusercontent.com/44328319/135097602-1872c44d-a1aa-4ffb-a7b4-5cfbb48f5c9c.png">
-       <img width="763" alt="image" src="https://user-images.githubusercontent.com/44328319/135097682-22fcdf9e-bc82-423d-b115-6326ac0609cf.png">
-       <img width="1038" alt="image" src="https://user-images.githubusercontent.com/44328319/135098006-baa9f0c0-e0cc-420d-bc9c-2acd53328f9a.png">
-       <img width="1071" alt="image" src="https://user-images.githubusercontent.com/44328319/135098292-1492519a-bf70-4372-abfa-96be03f940be.png">
-       <img width="1020" alt="image" src="https://user-images.githubusercontent.com/44328319/135098419-c20e46d3-9616-42d2-89fb-57beffe5a0c7.png">
-       <img width="1007" alt="image" src="https://user-images.githubusercontent.com/44328319/135098584-ac4445c6-bece-47a7-99a9-eeeab7d3e9ca.png">
-       <img width="1073" alt="image" src="https://user-images.githubusercontent.com/44328319/135100366-71126fab-0d02-4691-af51-4beb982b82e6.png">
-       <img width="1061" alt="image" src="https://user-images.githubusercontent.com/44328319/135100769-1e4b431d-e691-4b4d-9fea-16e134211c38.png">
-       Transit Gateway = replace multiple vpns
-       <img width="1023" alt="image" src="https://user-images.githubusercontent.com/44328319/135100929-35956154-9aeb-4b9f-941a-91b83a8f3d2d.png">
-       <img width="1003" alt="image" src="https://user-images.githubusercontent.com/44328319/135101023-f092392d-2df6-4522-a843-747dbf5e53d7.png">
-       <img width="928" alt="image" src="https://user-images.githubusercontent.com/44328319/135101078-c5be842c-1bad-4fe1-83ae-667292903fb1.png">
+  <img width="1022" alt="image" src="https://user-images.githubusercontent.com/44328319/135096436-6e9e16e6-047e-4044-a39f-e91fcfeb87e1.png">
+  <img width="1050" alt="image" src="https://user-images.githubusercontent.com/44328319/135097012-dcb87195-fc1f-493d-a727-f2b48b3da5ca.png">
+  <img width="1055" alt="image" src="https://user-images.githubusercontent.com/44328319/135097602-1872c44d-a1aa-4ffb-a7b4-5cfbb48f5c9c.png">
+  <img width="763" alt="image" src="https://user-images.githubusercontent.com/44328319/135097682-22fcdf9e-bc82-423d-b115-6326ac0609cf.png">
+  <img width="1038" alt="image" src="https://user-images.githubusercontent.com/44328319/135098006-baa9f0c0-e0cc-420d-bc9c-2acd53328f9a.png">
+  <img width="1071" alt="image" src="https://user-images.githubusercontent.com/44328319/135098292-1492519a-bf70-4372-abfa-96be03f940be.png">
+  <img width="1020" alt="image" src="https://user-images.githubusercontent.com/44328319/135098419-c20e46d3-9616-42d2-89fb-57beffe5a0c7.png">
+  <img width="1007" alt="image" src="https://user-images.githubusercontent.com/44328319/135098584-ac4445c6-bece-47a7-99a9-eeeab7d3e9ca.png">
+  <img width="1073" alt="image" src="https://user-images.githubusercontent.com/44328319/135100366-71126fab-0d02-4691-af51-4beb982b82e6.png">
+  <img width="1061" alt="image" src="https://user-images.githubusercontent.com/44328319/135100769-1e4b431d-e691-4b4d-9fea-16e134211c38.png">
+  Transit Gateway = replace multiple vpns
+  <img width="1023" alt="image" src="https://user-images.githubusercontent.com/44328319/135100929-35956154-9aeb-4b9f-941a-91b83a8f3d2d.png">
+  <img width="1003" alt="image" src="https://user-images.githubusercontent.com/44328319/135101023-f092392d-2df6-4522-a843-747dbf5e53d7.png">
+  <img width="928" alt="image" src="https://user-images.githubusercontent.com/44328319/135101078-c5be842c-1bad-4fe1-83ae-667292903fb1.png">
   
  </details>  
 
  <details>
-    <summary>Session Manager</summary>
+ <summary>Session Manager</summary>
   
-      <img width="966" alt="image" src="https://user-images.githubusercontent.com/44328319/135098827-7724bb94-6837-47b4-9ead-82c8c45676d9.png">
+ <img width="966" alt="image" src="https://user-images.githubusercontent.com/44328319/135098827-7724bb94-6837-47b4-9ead-82c8c45676d9.png">
   
  </details>  
  
 <details>
-  <summary>Cloud HSM</summary>
+<summary>Cloud HSM</summary>
 
-    <img width="944" alt="image" src="https://user-images.githubusercontent.com/44328319/135099654-d035ff4e-cdc3-48b8-88fc-aea25b14c659.png">
-    <img width="894" alt="image" src="https://user-images.githubusercontent.com/44328319/135100170-02dfdaaf-2041-47f7-8ee6-d355c84959d5.png">
+<img width="944" alt="image" src="https://user-images.githubusercontent.com/44328319/135099654-d035ff4e-cdc3-48b8-88fc-aea25b14c659.png">
+<img width="894" alt="image" src="https://user-images.githubusercontent.com/44328319/135100170-02dfdaaf-2041-47f7-8ee6-d355c84959d5.png">
 
 </details>  
  
