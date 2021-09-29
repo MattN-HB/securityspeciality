@@ -354,6 +354,33 @@ Version 2.0SCS-C014|P A G E
 <img width="1046" alt="image" src="https://user-images.githubusercontent.com/44328319/135170531-267f21e1-beb1-459c-bf88-c44ba3ffb4fe.png">
 
 </details>
+
+<details>
+<summary>Compromised EC2s</summary>
+  
+<img width="1019" alt="image" src="https://user-images.githubusercontent.com/44328319/135170702-4497d289-a0d0-498c-9f56-632467cc31f1.png">
+If leaked accesskeys make inactive and delete
+<img width="862" alt="image" src="https://user-images.githubusercontent.com/44328319/135171231-8c575b79-707d-4038-b5d6-527c869a4f53.png">
+
+</details>
+
+<details>
+<summary>Cert Manager, API gateway, and Parameter store, Run command, and Compliance</summary>
+  
+<img width="968" alt="image" src="https://user-images.githubusercontent.com/44328319/135348624-f069dca9-f565-45d1-9d3f-65f1d0e8b130.png">
+<img width="1014" alt="image" src="https://user-images.githubusercontent.com/44328319/135349021-4d440fcf-60aa-44b5-a93c-2d9c8dc8bfa2.png">
+<img width="1008" alt="image" src="https://user-images.githubusercontent.com/44328319/135349225-23fcf875-0dfd-404f-8634-214b915aaf45.png">
+<img width="1021" alt="image" src="https://user-images.githubusercontent.com/44328319/135349346-5616d8fd-35af-44c6-8888-8d93875cc72c.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/44328319/135349556-1bcdef04-348e-4d43-b55e-20d550bfb78b.png">
+<img width="1015" alt="image" src="https://user-images.githubusercontent.com/44328319/135349533-f739311e-c62a-4f66-bf3d-2310a4bdceb2.png">
+<img width="1014" alt="image" src="https://user-images.githubusercontent.com/44328319/135349619-8426b6ca-0b76-4301-b38e-9d930099e205.png">
+<img width="975" alt="image" src="https://user-images.githubusercontent.com/44328319/135349644-d8c5c5c5-b434-4977-bb13-975703c34f29.png">
+<img width="970" alt="image" src="https://user-images.githubusercontent.com/44328319/135349674-93abcd0d-d161-4a08-9e41-b5a170d4e8e2.png">
+
+<img width="958" alt="image" src="https://user-images.githubusercontent.com/44328319/135349477-edde9ff6-42fd-4122-b52b-6c3c821d9992.png">
+
+
+</details>
  
 ## Resources
 
