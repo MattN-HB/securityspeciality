@@ -381,7 +381,27 @@ If leaked accesskeys make inactive and delete
 
 
 </details>
- 
+<details>
+<summary>Macie, GuardDuty, Secrets Manager, SES, sec hub, network deep packet inspection, artifact</summary>
+  
+<img width="626" alt="image" src="https://user-images.githubusercontent.com/44328319/135527715-3d90766d-a242-48d1-8bb9-0428d92c09dd.png">
+<img width="1055" alt="image" src="https://user-images.githubusercontent.com/44328319/135527872-6f2405c3-03e0-4e8e-a981-afc2824d4915.png">
+<img width="978" alt="image" src="https://user-images.githubusercontent.com/44328319/135527990-e2207466-2b5e-452d-944f-093b1ad077c9.png">
+<img width="1065" alt="image" src="https://user-images.githubusercontent.com/44328319/135528302-bcc965ac-2fdd-40b6-b3f0-9366df5348b4.png">
+<img width="1055" alt="image" src="https://user-images.githubusercontent.com/44328319/135528383-ff6cdc68-5059-469b-91aa-b6fa701ae3b4.png">
+<img width="991" alt="image" src="https://user-images.githubusercontent.com/44328319/135528501-cec6e0a0-83ff-4d22-8b94-389abeade9ff.png">
+<img width="1060" alt="image" src="https://user-images.githubusercontent.com/44328319/135528649-d952d4c1-f47a-43d9-91a4-f9c040d01b28.png">
+<img width="1062" alt="image" src="https://user-images.githubusercontent.com/44328319/135528763-5083f388-27f6-4889-89fe-0cd186462366.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/44328319/135528838-3e152c92-ec78-468c-815d-0bef2b865093.png">
+
+
+
+
+
+
+
+</details>
+
 ## Resources
 
 <details>
@@ -513,6 +533,9 @@ Power-Access --policy-document { "Statement":[{ "Effect":
  * Advantages own key material cmk = use your own key material / set reqs , delete any time without waiting 7 to 30 days
  * Customer managed cmk rotation = 1 yr automation
  * All kms cmk to s3 how would configure = `kms:ViaService` condition key in "key policy" or "in IAM Policy".
+ * Ec2 hacked then = stop instance, snapshot volume, and isloate for foreinsics
+ * Cloudfront features to protect endpoints = OAI and georestriction
+ * ACM integrates with Elastic Load Balancing,Amazon CloudFront,AWS Elastic Beanstalk,Amazon API Gateway,AWS Nitro Enclaves
    
  </details>  
 
