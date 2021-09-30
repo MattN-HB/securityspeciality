@@ -536,6 +536,7 @@ Power-Access --policy-document { "Statement":[{ "Effect":
  * Ec2 hacked then = stop instance, snapshot volume, and isloate for foreinsics
  * Cloudfront features to protect endpoints = OAI and georestriction
  * ACM integrates with Elastic Load Balancing,Amazon CloudFront,AWS Elastic Beanstalk,Amazon API Gateway,AWS Nitro Enclaves
+ * What network ports ses configured to smtp endpoint = 25, 587, 2587
    
  </details>  
 
