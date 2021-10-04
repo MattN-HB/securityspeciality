@@ -537,6 +537,9 @@ Power-Access --policy-document { "Statement":[{ "Effect":
  * Cloudfront features to protect endpoints = OAI and georestriction
  * ACM integrates with Elastic Load Balancing,Amazon CloudFront,AWS Elastic Beanstalk,Amazon API Gateway,AWS Nitro Enclaves
  * What network ports ses configured to smtp endpoint = 25, 587, 2587
+ * ![image](https://user-images.githubusercontent.com/44328319/135766561-7f3c6027-2d32-44ff-ac8c-f8ce5c7f024e.png)
+ * ![image](https://user-images.githubusercontent.com/44328319/135770022-ef9d7761-d7ba-4e05-b44a-2b1510ffeccc.png)
+
    
  </details>  
 
