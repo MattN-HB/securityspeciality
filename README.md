@@ -543,8 +543,9 @@ Power-Access --policy-document { "Statement":[{ "Effect":
  <img width="1256" alt="image" src="https://user-images.githubusercontent.com/44328319/135874424-e94612ea-24b2-4046-bbc2-c16a290b6b0c.png">
  * How prevent vpc using aws dns?  Set the enableDnsHostnames and enableDnsSupport attributes in the VPC to false to disable DNS resolution in the VPC
  * Cloudtrail 'write-only' or 'all' usually fixes not logging due to set to 'read'.
-
-   
+ * <img width="616" alt="image" src="https://user-images.githubusercontent.com/44328319/136105062-52b087ab-6c8b-4ae6-bf6d-0d1b31314efa.png">
+ * <img width="578" alt="image" src="https://user-images.githubusercontent.com/44328319/136105113-e47d84ea-1a7d-42a8-86a5-4c0f1c0b06c6.png">
+ * <img width="829" alt="image" src="https://user-images.githubusercontent.com/44328319/136105185-8dee688c-eb2b-4c7c-94a8-a43034893509.png">   
 
    
  </details>  
