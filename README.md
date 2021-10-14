@@ -548,6 +548,8 @@ Power-Access --policy-document { "Statement":[{ "Effect":
  * <img width="578" alt="image" src="https://user-images.githubusercontent.com/44328319/136105113-e47d84ea-1a7d-42a8-86a5-4c0f1c0b06c6.png">
  * <img width="829" alt="image" src="https://user-images.githubusercontent.com/44328319/136105185-8dee688c-eb2b-4c7c-94a8-a43034893509.png"> 
  * <img width="1252" alt="image" src="https://user-images.githubusercontent.com/44328319/136106714-2135fc2d-5309-4588-8853-d01f6afabe3d.png">
+ * <img width="1021" alt="image" src="https://user-images.githubusercontent.com/44328319/137330102-5c09f1cf-745d-449e-b05e-3e2eaf3f7e32.png">
+
 
 
    
