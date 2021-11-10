@@ -556,6 +556,7 @@ Power-Access --policy-document { "Statement":[{ "Effect":
  * solution to perform deep packet inspection = network firewall
  * when does hypervisor scrub EBS volume = Not scrubbed immediately after delete , when unallocated from host immeditately scrubbed
  * pentesting allowed on = rds, api gateway, and cloudfront 
+ * what services natively support parameter store = cloud formation, ec2, lambda (rds is not but can use lambda to rds)
 
 
 
