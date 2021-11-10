@@ -555,6 +555,7 @@ Power-Access --policy-document { "Statement":[{ "Effect":
  * <img width="1073" alt="image" src="https://user-images.githubusercontent.com/44328319/138895800-1c697792-b573-4ad8-96e7-5f6a301f50af.png">
  * solution to perform deep packet inspection = network firewall
  * when does hypervisor scrub EBS volume = Not scrubbed immediately after delete , when unallocated from host immeditately scrubbed
+ * pentesting allowed on = rds, api gateway, and cloudfront 
 
 
 
