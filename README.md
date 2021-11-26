@@ -541,7 +541,7 @@ Power-Access --policy-document { "Statement":[{ "Effect":
  * ![image](https://user-images.githubusercontent.com/44328319/135766561-7f3c6027-2d32-44ff-ac8c-f8ce5c7f024e.png)
  * ![image](https://user-images.githubusercontent.com/44328319/135787409-fdaed081-5cfc-49a3-b33b-291dbfdbee85.png)
  * managed services using 'perfect forward secrecy' = cloudfront and elb 
- <img width="1256" alt="image" src="https://user-images.githubusercontent.com/44328319/135874424-e94612ea-24b2-4046-bbc2-c16a290b6b0c.png">
+ * <img width="1256" alt="image" src="https://user-images.githubusercontent.com/44328319/135874424-e94612ea-24b2-4046-bbc2-c16a290b6b0c.png">
  * How prevent vpc using aws dns?  Set the enableDnsHostnames and enableDnsSupport attributes in the VPC to false to disable DNS resolution in the VPC
  * Cloudtrail 'write-only' or 'all' usually fixes not logging due to set to 'read'.
  * <img width="616" alt="image" src="https://user-images.githubusercontent.com/44328319/136105062-52b087ab-6c8b-4ae6-bf6d-0d1b31314efa.png">
