@@ -558,7 +558,7 @@ Power-Access --policy-document { "Statement":[{ "Effect":
  * pentesting allowed on = rds, api gateway, and cloudfront 
  * what services natively support parameter store = cloud formation, ec2, lambda (rds is not but can use lambda to rds)
  * Request allowed or denied
- ![image](https://user-images.githubusercontent.com/44328319/143655452-6c626d47-7284-4c22-8757-63215f2a902a.png)
+ * ![image](https://user-images.githubusercontent.com/44328319/143655452-6c626d47-7284-4c22-8757-63215f2a902a.png)
 
 
 
