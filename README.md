@@ -557,7 +557,7 @@ Power-Access --policy-document { "Statement":[{ "Effect":
  * when does hypervisor scrub EBS volume = Not scrubbed immediately after delete , when unallocated from host immeditately scrubbed
  * pentesting allowed on = rds, api gateway, and cloudfront 
  * what services natively support parameter store = cloud formation, ec2, lambda (rds is not but can use lambda to rds)
- * Request allowed or denied
+ * R[equest allowed or denied](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic.html)
  * ![image](https://user-images.githubusercontent.com/44328319/143655452-6c626d47-7284-4c22-8757-63215f2a902a.png)
 
 
