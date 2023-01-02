@@ -5,6 +5,7 @@ This repo is **my personal** guide to taking security speciality cert in 2021. T
 * [acloudguru hands on course](https://acloudguru.com/course/aws-certified-security-specialty)
 * [Tutorial Dojo Practice Exams](https://portal.tutorialsdojo.com/courses/aws-certified-security-specialty-practice-exams/lessons/practice-exams-timed-mode-7/)
 * [Exam Pointers from KPLABS](https://docs.google.com/document/d/11X-ODL3pMHaGkdEHyMEMdrXeq2kxdB0-_fzzyz8Qxlk/edit)
+* [Cheat Sheets by Tutorial Dojo](https://tutorialsdojo.com/aws-cheat-sheets/)
 
 ## Scoring
 <details>
