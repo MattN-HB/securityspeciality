@@ -243,6 +243,7 @@ Version 2.0SCS-C014|P A G E
  <details>
   <summary>KMS</summary>
   
+  [KMS Cheat Sheet](https://tutorialsdojo.com/aws-key-management-service-aws-kms/)
   <img width="915" alt="image" src="https://user-images.githubusercontent.com/44328319/134982143-d14e1371-73e1-46c5-9fef-4f5db1ed8e42.png">
   <img width="790" alt="image" src="https://user-images.githubusercontent.com/44328319/134982184-a46e0d3c-fe43-4cd6-a669-5109345de917.png">
   <img width="882" alt="image" src="https://user-images.githubusercontent.com/44328319/134982250-a0739e5d-417f-40ac-aaf0-90691b334e36.png">
