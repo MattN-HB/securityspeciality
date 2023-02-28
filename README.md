@@ -414,6 +414,9 @@ If leaked accesskeys make inactive and delete
 * [Cloudtrail Supported services](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-aws-service-specific-topics.html) 
 * [WAF cloudformation](https://s3.amazonaws.com/cloudformation-examples/community/common-attacks.json)
 * [Cantrill Labs](https://learn.cantrill.io/)
+* Overlap of exams
+  ![image](https://user-images.githubusercontent.com/44328319/221879055-8cc4242d-7359-49a4-acdd-de2a0aff6748.png)
+
 
 </details>
 
