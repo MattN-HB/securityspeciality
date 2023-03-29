@@ -428,6 +428,7 @@ If leaked accesskeys make inactive and delete
 
 * Key related commands
     ```#Create a new key and make a note of the region you are working in 
+    aws sts assume-role --role-arn <ROLE_ARN> --role-session-name <SESSION_NAME>
     aws kms create-key
 
     #Test encrypting plain text using my new key: 
